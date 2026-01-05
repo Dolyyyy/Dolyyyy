@@ -51,8 +51,8 @@ I design, build, and maintain **robust, scalable, and clean applications**, from
 
 ## 📫 Contact
 
-- 💼 Open to **professional & technical discussions**
-- 🧠 Passionate about clean architecture & real-world solutions
+- Mail : contact@codoly.fr
+- Discord : dolyyy / 464356448231489546
 
 ---
 
