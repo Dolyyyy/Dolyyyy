@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dolyyyy
+"# 👋 Hi, I'm Dolyyyy
 
 🚀 **Full Stack Developer** | 💼 **Full-time (CDI)** | 🌍 **France**
 
@@ -47,15 +47,16 @@ I design, build, and maintain **robust, scalable, and clean applications**, from
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolyyyy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolyyyy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<a href="https://github.com/Dolyyyy">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dolyyyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dolyyyy&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dolyyyy&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Dolyyyy&color=blue)
 
 ---
 
