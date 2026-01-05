@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dolyyyy
 
-🚀 **Full Stack Developer** | 💼 **Full-time (CDI)** | 🌍 **France**
+🚀 **Full Stack Developer & System Administrator** | 💼 **Full-time (CDI)** | 🌍 **France**
 
 Welcome to my GitHub profile.  
 I'm a **professional Full Stack Developer**, working daily in a real-world production environment within a company.
