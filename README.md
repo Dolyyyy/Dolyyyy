@@ -9,17 +9,6 @@ I design, build, and maintain **robust, scalable, and clean applications**, from
 
 ---
 
-## 🧠 About Me
-
-- 💼 Full Stack Developer **IRL (CDI)**
-- 🏗️ Production-oriented development
-- 🔌 API design & backend architecture
-- 🎨 Clean, modern, and efficient UIs
-- ⚙️ Focused on performance, maintainability & clarity
-- 🧩 I enjoy solving real-world problems with code
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
