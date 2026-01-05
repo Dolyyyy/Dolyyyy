@@ -1,4 +1,4 @@
-"# 👋 Hi, I'm Dolyyyy
+## Hi, I'm Dolyyyy
 
 🚀 **Full Stack Developer** | 💼 **Full-time (CDI)** | 🌍 **France**
 
