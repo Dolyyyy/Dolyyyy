@@ -26,7 +26,6 @@ I design, build, and maintain **robust, scalable, and clean applications**, from
 ![Shell](https://img.shields.io/badge/Shell-111?style=for-the-badge&logo=gnu-bash)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![Go](https://img.shields.io/badge/Go-111?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust)
 
 ---
 
